@@ -62,3 +62,7 @@ a{color:var(--orange-dark)}a:hover{color:#9E3F15}
   .page .site-footer h2{font-size:16px!important}
   .brand img{height:40px}
 }
+
+/* Balance headline lines so no word is left alone on the last line */
+h1,h2,h3{text-wrap:balance}
+p,li{text-wrap:pretty}
