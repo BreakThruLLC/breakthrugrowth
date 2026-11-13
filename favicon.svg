@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="80 160 760 760"><rect x="80" y="160" width="760" height="760" rx="150" fill="#FFFFFF"/><path d="M700 455 V708 H148 V312 H480" fill="none" stroke="#20324B" stroke-width="62" stroke-linejoin="miter"/>
-<polyline points="250,640 420,462 492,532 668,342" fill="none" stroke="#E6642D" stroke-width="72" stroke-linejoin="miter" stroke-linecap="butt"/>
-<polygon points="590,300 790,222 742,420" fill="#E6642D"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><clipPath id="c"><rect width="100" height="100" rx="22"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="100" height="100" fill="#E6642D"/>
+<path d="M-10 30 H46 M78 64 V110" fill="none" stroke="#20324B" stroke-width="12"/>
+<polyline points="6,94 30,68 42,80 60,58" fill="none" stroke="#FFFFFF" stroke-width="13" stroke-linejoin="miter"/>
+<polygon points="83.6,29.2 74.9,74.1 41.1,45.9" fill="#FFFFFF"/></g></svg>
