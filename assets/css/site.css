@@ -69,4 +69,4 @@ p,li{text-wrap:pretty}
 
 /* Solid navy button */
 .btn-navy{background:#20324B;color:#fff}
-.btn-navy:hover{background:#172436;color:#fff}
+.btn-navy:hover{background:#172436!important;color:#fff!important}
