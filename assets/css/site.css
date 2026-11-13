@@ -66,3 +66,7 @@ a{color:var(--orange-dark)}a:hover{color:#9E3F15}
 /* Balance headline lines so no word is left alone on the last line */
 h1,h2,h3{text-wrap:balance}
 p,li{text-wrap:pretty}
+
+/* Solid navy button */
+.btn-navy{background:#20324B;color:#fff}
+.btn-navy:hover{background:#172436;color:#fff}
